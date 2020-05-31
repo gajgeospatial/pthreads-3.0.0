@@ -1,0 +1,1 @@
+This project should be installed as PTHREAD_DIR with ProjectTool.
